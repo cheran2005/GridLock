@@ -4,7 +4,9 @@ GridLock Website
 
 A fun browser-based mind game where you memorize emoji patterns in a grid and answer questions based on them.
 
-Play It Live:
+Play It Live: 
+
+https://cheran2005.github.io/GridLock/
 
 
 Tech Stack:
